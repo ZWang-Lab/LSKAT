@@ -28,8 +28,6 @@ Please install the required R package before you install LSKAT package. After th
 ```
 git clone https://github.com/ZWang-Lab/LSKAT.git
 
-cd LSKAT
-
 R CMD INSTALL LSKAT
 
 ```
